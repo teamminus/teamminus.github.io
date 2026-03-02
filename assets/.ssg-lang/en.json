@@ -1,9 +1,13 @@
 {
     "index": {
         "lang": "en",
-        "index.head.description": "All about Team Minus, the aetherian Minecraft modding team.",
-        "index.head.og:title": "Team Minus - Minecraft modding team",
-        "index.head.og:description": "Discover Team Minus, the aetherian Minecraft modding team.",
-        "index.head.og:locale": "en_US"
+        "head.description": "All about Team Minus, the aetherian Minecraft modding team.",
+        "head.og:title": "Team Minus - Minecraft modding team",
+        "head.og:description": "Discover Team Minus, the aetherian Minecraft modding team.",
+        "head.og:locale": "en_US",
+        "--body--":null,
+        "h2":"Minecraft modding team",
+        "description":"The Team Minus is an international group of people giving their free time to create the greatest Minecraft X Diary of an 8-Bit Warrior experience. We aim to replicate the books experience in game as close as possible.",
+        "footer":"© 2026 Team Minus - ALL RIGHTS RESERVED<br>NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG.<br>NOT AN OFFICIAL DIARY OF AN 8-BIT WARRIOR PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH 404 éditions, Andrews McMeel Publishing OR Cube Kid."
     }
 }

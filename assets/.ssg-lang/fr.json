@@ -4,6 +4,10 @@
         "index.head.description": "Tout sur Team Minus, l'équipe de modding Minecraft aethérienne.",
         "index.head.og:title": "Team Minus - Équipe de modding Minecraft",
         "index.head.og:description": "Découvrez Team Minus, l'équipe de modding Minecraft aethérienne.",
-        "index.head.og:locale": "fr_FR"
+        "index.head.og:locale": "fr_FR",
+        "--body--":null,
+        "h2":"Team de modding Minecraft",
+        "description":"La Team Minus est un groupe international de personnes donnant de le leur temps pour créer la meilleure expérience Minecraft X Journal d'un Noob. Nous avons pour objectif de répliquer en jeu l'expérience des livres le plus fidèlement possible.",
+        "footer":"© 2026 Team Minus - Tous Droits Réservés<br>PAS UN PRODUIT MINECRAFT OFFICIEL. NON APPROUVÉ PAR OU ASSOCIÉ À MOJANG.<br>PAS UN PRODUIT OFFICIEL JOURNAL D'UN NOOB. NON APPROUVÉ OU ASSOCIÉ À 404 ÉDITIONS, ANDREWS MCMEEL PUBLISHING OU CUBE KID."
     }
 }
