@@ -8,6 +8,13 @@
         "--body--":null,
         "h2":"Team de modding Minecraft",
         "description":"La Team Minus est un groupe international de personnes donnant de le leur temps pour créer la meilleure expérience Minecraft X Journal d'un Noob. Nous avons pour objectif de répliquer en jeu l'expérience des livres le plus fidèlement possible.",
+        "projects":"Nos projets",
+        "doa8bw-mod.title":"Mod Journal d'un Noob",
+        "doa8bw-mod.description":"Un mod Minecraft basé sur la série de livres populaire Journal d'un Noob de Cube Kid. Explore le monde d'Aetheria, combat dans de donjons, monte ta classe en niveau, et si tu le sens, essaie de gagner face à Herobrine !",
+        "doa8bw-mod.cover.alt":"Image de couverture pour le Mod Journal d'un Noob (pas encore d'image).",
+        "aetherian-wiki.title":"Wiki Aethérien",
+        "aetherian-wiki.description":"Le wiki (bientot™) le plus exhaustif et complet à propos du monde aethérien !",
+        "aetherian-wiki.cover.alt":"Image de couverture du Wiki Aethérien (pas encore d'image).",
         "footer":"© 2026 Team Minus - Tous Droits Réservés<br>PAS UN PRODUIT MINECRAFT OFFICIEL. NON APPROUVÉ PAR OU ASSOCIÉ À MOJANG.<br>PAS UN PRODUIT OFFICIEL JOURNAL D'UN NOOB. NON APPROUVÉ OU ASSOCIÉ À 404 ÉDITIONS, ANDREWS MCMEEL PUBLISHING OU CUBE KID."
     }
 }

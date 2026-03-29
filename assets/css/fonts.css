@@ -1,0 +1,17 @@
+/* Antonio */
+/* Titles and interactive elements */
+@font-face {
+  font-family: 'Antonio';
+  src: url(../fonts/Antonio.woff2) format(woff2);
+  font-weight: 100 700;
+  font-display: swap;
+}
+
+/* Afacad Flux */
+/* Text */
+@font-face {
+  font-family: 'Afacad Flux';
+  src: url(../fonts/AfacadFlux.woff2) format(woff2);
+  font-weight: 100 900;
+  font-display: swap;
+}

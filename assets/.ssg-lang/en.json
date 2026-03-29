@@ -8,6 +8,13 @@
         "--body--":null,
         "h2":"Minecraft modding team",
         "description":"The Team Minus is an international group of people giving their free time to create the greatest Minecraft X Diary of an 8-Bit Warrior experience. We aim to replicate the books experience in game as close as possible.",
+        "projects":"Our projects",
+        "doa8bw-mod.title":"Diary of an 8-Bit Warrior Mod",
+        "doa8bw-mod.description":"A Minecraft mod based on the famous Doa8BW book series by Cube Kid. Explore the world of Aetheria, fight in dungeons, level up your class, and if you feel like it, try to defeat Herobrine!",
+        "doa8bw-mod.cover.alt":"Cover image for the Diary of an 8-Bit Warrior Mod (no image yet).",
+        "aetherian-wiki.title":"Aetherian Wiki",
+        "aetherian-wiki.description":"The (soon™) most complete and comprehensive wiki about the aetherian world!",
+        "aetherian-wiki.cover.alt":"Cover image for the Aetherian Wiki (no image yet).",
         "footer":"© 2026 Team Minus - ALL RIGHTS RESERVED<br>NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG.<br>NOT AN OFFICIAL DIARY OF AN 8-BIT WARRIOR PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH 404 éditions, Andrews McMeel Publishing OR Cube Kid."
     }
 }

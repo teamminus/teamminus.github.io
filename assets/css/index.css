@@ -1,0 +1,50 @@
+:root {
+    --ink-black: #051323;
+    --ivory-mist: #fffaeb;
+    --neon-ice: #5cebe8;
+    --dusty-mauve: #8d6875;
+
+    --background-color: var(--ivory-mist);
+    --text-color :var(--ink-black);
+    --highlight: var(--neon-ice);
+    --secondary: var(--dusty-mauve);
+
+    margin: 0;
+    font-family: 'Afacad Flux', serif;
+    font-weight: 400;
+  }
+
+body {
+    --default-margin: 10px
+    margin: var(--default-margin);
+    background-color: var(--background-color);
+    color:var(--text-color);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Antonio', serif;
+  font-weight: 700;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+#projects-grid {
+    --grid-width: calc(100vw var(--default-margin));
+    --grid-border-radius: 15px;
+    --inner-margin: 5px;
+    --project-border-width: 3px;
+    display: grid;
+    column-count: 1;
+    column-width: calc(var(--grid-width) - 2*var(--inner-marhin) - 2*var(--project-border-width));
+    outline: calc(var(--project-border-width)/2) solid var(--secondary);
+    border-radius: var(--grid-border-radius);
+}
+
+.project {
+    margin: var(--inner-margin);
+    border: var(--project-border-width) solid var(--highlight);
+    border-radius: calc(var(--grid-border-radius) - var(--inner-margin));
+    padding: 2px;
+}
